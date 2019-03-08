@@ -1,0 +1,15 @@
+Vivado Simulator 2015.2
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2015.2/bin/unwrapped/lnx64.o/xelab -wto 0b2ba3bcbed245f59fc5bc28d2fdbc16 --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Counter_TB_behav xil_defaultlib.Counter_TB xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Generic_counter(COUNTER_WIDTH=24...
+Compiling module xil_defaultlib.Generic_counter(COUNTER_WIDTH=12...
+Compiling module xil_defaultlib.IR_Transmitter_SM
+Compiling module xil_defaultlib.Counter_TB
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Counter_TB_behav
